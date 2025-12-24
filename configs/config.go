@@ -1,7 +1,7 @@
 package configs
 
 import (
-	"github.com/go-chi/jwtauth"
+	"github.com/go-chi/jwtauth/v5"
 	"github.com/spf13/viper"
 )
 
